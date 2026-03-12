@@ -1,8 +1,10 @@
 <h1 align="center"> Hello, I'm Kendy!</h1>
+- Systems Analyst from **Brazil** 🇧🇷
+- Information Systems graduate from the Federal University of Sergipe (UFS) 🎓
+- Computer Maintenance and Support Technician from the Federal Institute of Sergipe (IFS)
+- Currently working at **SEFAZ** as a Systems Analyst
 
-- I'm a developer from **Brazil** 🇧🇷
-- Computer maintenance and support technician by Federal Institute do Sergipe (IFS)
-- **Currently I'm studying Information Systems at the Federal University of Sergipe (UFS)** 👩‍🎓
+*******
 
 <div align="center">
   <a href="https://github.com/Kendy619">
