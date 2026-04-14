@@ -46,7 +46,7 @@
 ## 💼 Daily Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,spring,oracle,docker,postgresql,java" />
+  <img src="https://skillicons.dev/icons?i=javascript,spring,oracle19c,docker,postgresql,java" />
 </p>
 
 ---
