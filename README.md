@@ -24,7 +24,7 @@
 ## 🚀 Main Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,nextjs,tailwind,typescript,javascript,nodejs,express,laravel,php,prisma,mysql,postgres,firebase,supabase,aws,docker,nginx,html,css,figma,photoshop,git,github,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,python,nextjs,tailwind,typescript,javascript,nodejs,express,php,mysql,postgres,aws,docker,html,css,figma,git,github,lambda" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 🔎 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,nest,tauri,php,rust,bun,electron" />
+  <img src="https://skillicons.dev/icons?i=aws,lambda,nest,node,php,rust,bun," />
 </p>
 
 ---
