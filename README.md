@@ -32,7 +32,7 @@
 ## 🔎 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,lambda,nest,node,php,rust,bun," />
+  <img src="https://skillicons.dev/icons?i=aws,nest,nodejs,php,rust,bun," />
 </p>
 
 ---
